@@ -10,7 +10,7 @@ DB + Front-/Backend
 -online Shop: handvoll Produkte die eingekauft werden können (Accounts, Einfkaufswagen, Bestellung)
 
 
-#Anspruch
+#Anspruch  
 -Nico:  
   - dies
   - das
