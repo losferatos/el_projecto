@@ -11,14 +11,14 @@ DB + Front-/Backend
 
 
 #Anspruch
--Nico:
+-Nico:  
   - dies
   - das
   - und eine Prise Quatsch
 
--Eric:
+-Eric:  
   -responsive Design alta
-  -
+  -blubb
 
 
 
