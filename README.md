@@ -11,7 +11,7 @@ DB + Front-/Backend
 
 
 #Anspruch  
--Nico:  
+-Nico:  s
   - dies  
   - das  
   - und eine Prise Quatsch  
